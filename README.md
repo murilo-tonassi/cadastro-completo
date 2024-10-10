@@ -4,7 +4,7 @@
 
 Este projeto consiste na criação de um sistema de cadastro de usuários, com foco na validação de dados pessoais e de endereço, utilizando HTML, CSS, Bootstrap e JavaScript. O principal objetivo é proporcionar uma interface funcional para que os usuários insiram suas informações corretamente, assegurando a validação de campos como e-mail, CPF e CEP. O sistema também utiliza a API ViaCEP para buscar dados de endereço automaticamente a partir do CEP informado.
 
-Este projeto é uma evolução de um trabalho anterior desenvolvido em sala de aula, como o cadastro de E-commerce realizado no 1º ano do ensino médio (terceiro trimestre), onde foram trabalhados os mesmos dados pessoais e de endereço, porém sem as validações implementadas em JavaScript. [Link do projeto][https://github.com/murilo-tonassi/form-CadEcommerce]
+Este projeto é uma evolução de um trabalho anterior desenvolvido em sala de aula, como o cadastro de E-commerce realizado no 1º ano do ensino médio (terceiro trimestre), onde foram trabalhados os mesmos dados pessoais e de endereço, porém sem as validações implementadas em JavaScript. [Link do projeto](https://github.com/murilo-tonassi/form-CadEcommerce)
 
 ## Funcionalidades:
 
