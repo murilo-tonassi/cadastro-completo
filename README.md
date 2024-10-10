@@ -71,3 +71,21 @@ document.getElementById('formCadastro').addEventListener('submit', (event) => {
 });
 
 Explicação: O primeiro evento faz a pesquisa do CEP automaticamente quando o campo CEP perde o foco. O segundo evento executa a validação completa dos dados pessoais ao submeter o formulário, impedindo o envio caso haja erros.
+
+
+## Fontes consultadas:
+- [ViaCep](https://viacep.com.br/) e [ViaCep Json](https://viacep.com.br/ws/86031150/json/):
+- [BootStrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## Tecnologias utilizadas:
+- Visual Studio Code
+ - Github
+ - Git
+ - HTML5
+ - CSS3
+ - Javascript
+ - [Bootstrap](https://getbootstrap.com/)
+ - [ViaCep](https://viacep.com.br/)
+
+ ## Autores:
+ 
