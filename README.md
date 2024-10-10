@@ -88,4 +88,7 @@ Explicação: O primeiro evento faz a pesquisa do CEP automaticamente quando o c
  - [ViaCep](https://viacep.com.br/)
 
  ## Autores:
- 
+- [Murilo Tonassi](https://github.com/murilo-tonassi)
+- [Nicolas Tonassi](https://github.com/nicolas-tonassi)
+- [Pamela Souza](https://github.com/PamelaSouzaSilva)
+- [Naillim Novaski](https://github.com/naillimnovaski)
