@@ -84,7 +84,7 @@ Explicação: O primeiro evento faz a pesquisa do CEP automaticamente quando o c
  - HTML5
  - CSS3
  - Javascript
- - [Bootstrap](https://getbootstrap.com/)
+ - [BootStrap](https://getbootstrap.com/)
  - [ViaCep](https://viacep.com.br/)
 
  ## Autores:
